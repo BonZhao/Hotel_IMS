@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\hotel.o
+./debug\client.o
+./debug\room.o
+./debug\timethread.o
+./debug\resignin.o
+./debug\hotelinfo.o
+./debug\qrc_image.o
+./debug\moc_hotel.o
+./debug\moc_timethread.o
+./debug\moc_resignin.o
+);

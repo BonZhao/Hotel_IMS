@@ -1,0 +1,6 @@
+[Hotel_Name]:
+[Radio]:0
+[CheckInRoom]:0
+[sumMoney]:0
+[ThisMonthMoney]:0
+[NowPeople]:0

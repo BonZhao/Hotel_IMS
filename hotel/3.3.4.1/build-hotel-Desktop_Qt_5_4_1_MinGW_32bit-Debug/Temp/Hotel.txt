@@ -1,0 +1,6 @@
+[Hotel_Name]:
+[Radio]:0.0384615
+[CheckInRoom]:2
+[sumMoney]:4320
+[ThisMonthMoney]:4320
+[NowPeople]:2

@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\hotel.o
+./release\client.o
+./release\room.o
+./release\timethread.o
+./release\resignin.o
+./release\hotelinfo.o
+./release\qrc_image.o
+./release\moc_hotel.o
+./release\moc_timethread.o
+./release\moc_resignin.o
+);
